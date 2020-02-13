@@ -1,4 +1,4 @@
-# Modelagem de dominios ricos
+# Modelagem de domínios ricos
 Exemplo de implementação de:
 
 - CQRS
