@@ -1,6 +1,7 @@
-﻿using MediatR;
+﻿using FluentValidation.Results;
+using MediatR;
 using System;
-using System.ComponentModel.DataAnnotations;
+
 
 namespace CQRS.Core.Messages
 {
